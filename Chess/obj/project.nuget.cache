@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BceNQTP5vYBC1HmRTCfy+mXCFNFw+yaWrpjvc7sqDc3wC3hbkPouLLIPZZOEvSciVh6JPipdo2UE8E4CYhhulw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cedrics\\source\\repos\\Chess\\Chess\\Chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cedrics\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
